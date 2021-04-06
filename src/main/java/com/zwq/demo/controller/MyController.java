@@ -16,6 +16,7 @@ public class MyController {
         System.out.println("hellot  World");
 
         System.out.println("你好");
+        System.out.println("你好branch");
 
         return "hello world!!!";
 
